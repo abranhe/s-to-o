@@ -39,6 +39,10 @@ console.log(sto('a: 1, b: 2, c: 3, d: 4'));
 // => { a: '1', b: '2', c: '3', d: '4' }
 ```
 
+# Related
+
+- [str-to-arr](https://github.com/abranhe/str-to-arr): Add words from a string to an array
+
 # Team
 
 |[![Carlos Abraham Logo](https://avatars3.githubusercontent.com/u/21347264?s=50&v=4)](https://19cah.com)|
