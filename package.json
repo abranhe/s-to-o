@@ -1,0 +1,38 @@
+{
+  "name": "s-to-o",
+  "version": "1.0.0",
+  "description": "STRING to OBJECT (s-to-o)",
+  "main": "index.js",
+  "scripts": {
+    "test": "ava && ci-success travis --success"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/abranhe/s-to-o.git"
+  },
+  "keywords": [
+    "string",
+    "object",
+    "s-to-o",
+		"convert",
+		"string-to-object",
+		"string-to"
+  ],
+  "files": [
+    "index.js"
+  ],
+  "author": {
+    "name": "Carlos Abraham",
+    "email": "abraham@abranhe.com",
+    "web": "abranhe.com"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/abranhe/s-to-o/issues"
+  },
+  "homepage": "https://github.com/abranhe/s-to-o#readme",
+  "devDependencies": {
+    "ci-success": "^2.0.0",
+    "ava": "1.0.0-beta.6"
+  }
+}
