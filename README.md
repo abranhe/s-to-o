@@ -24,6 +24,7 @@
 	<a href="https://paypal.me/abranhe/10"><img src="https://cdn.abraham.gq/badges/paypal.svg" /></a>
 </p>
 
+# Install
 
 ```
 npm install s-to-o
