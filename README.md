@@ -1,5 +1,5 @@
 <p align="center" id="top">
-	<a href="https://www.npmjs.com/package/str-to-arr"><img src="https://cdn.abraham.gq/projects/s-to-o/logo.svg"></a>
+	<a href="https://www.npmjs.com/package/str-to-arr"><img src="https://cdn.abranhe.com/projects/s-to-o/logo.svg"></a>
 	<br>
 	<br>
 	<br>
@@ -17,11 +17,11 @@
 	<!-- @abranhe -->
 	<a href="https://github.com/abranhe"><img src="https://abranhe.com/badge.svg"></a>
 	<!-- Cash me -->
-	<a href="https://cash.me/$abranhe"><img src="https://cdn.abraham.gq/badges/cash-me.svg"></a>
+	<a href="https://cash.me/$abranhe"><img src="https://cdn.abranhe.com/badges/cash-me.svg"></a>
 	<!-- Patreon -->
-	<a href="https://www.patreon.com/abranhe"><img src="https://cdn.abraham.gq/badges/patreon.svg" /></a>
+	<a href="https://www.patreon.com/abranhe"><img src="https://cdn.abranhe.com/badges/patreon.svg" /></a>
 	<!-- Paypal -->
-	<a href="https://paypal.me/abranhe/10"><img src="https://cdn.abraham.gq/badges/paypal.svg" /></a>
+	<a href="https://paypal.me/abranhe/10"><img src="https://cdn.abranhe.com/badges/paypal.svg" /></a>
 </p>
 
 # Install
