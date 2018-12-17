@@ -45,10 +45,10 @@ console.log(sto('a: 1, b: 2, c: 3, d: 4'));
 
 # Team
 
-|[![Carlos Abraham Logo](https://avatars3.githubusercontent.com/u/21347264?s=50&v=4)](https://19cah.com)|
+|[![Carlos Abraham Logo](https://avatars3.githubusercontent.com/u/21347264?s=50)](https://abranhe.com)|
 | :-: |
 | [Carlos Abraham](https://github.com/abranhe) |
 
 # License
 
-[MIT](https://github.com/abranhe/s-to-o/blob/master/LICENSE) License © [Carlos Abraham](https://github.com/abranhe/)
+[MIT](https://github.com/abranhe/s-to-o/blob/master/license) License © [Carlos Abraham](https://github.com/abranhe/)
