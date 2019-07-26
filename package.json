@@ -1,6 +1,6 @@
 {
   "name": "s-to-o",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Convert an string to an object",
   "scripts": {
     "test": "ava && xo && tsd"
@@ -10,23 +10,23 @@
     "string",
     "object",
     "s-to-o",
-		"convert",
-		"string-to-object",
-		"string-to"
+    "convert",
+    "string-to-object",
+    "string-to"
   ],
   "files": [
     "index.js",
     "index.d.ts"
   ],
   "author": {
-		"name": "Abraham Hernandez",
-		"email": "abraham@abranhe.com",
-		"url": "abranhe.com"
-	},
+    "name": "Abraham Hernandez",
+    "email": "abraham@abranhe.com",
+    "url": "abranhe.com"
+  },
   "license": "MIT",
   "devDependencies": {
     "ava": "*",
-		"tsd": "^0.7.3",
-		"xo": "*"
+    "tsd": "^0.7.3",
+    "xo": "*"
   }
 }
