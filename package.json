@@ -1,6 +1,6 @@
 {
   "name": "s-to-o",
-  "version": "1.2.0",
+  "version": "1.2.1",
   "description": "Convert an string to an object",
   "scripts": {
     "test": "ava && xo && tsd"
