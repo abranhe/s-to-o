@@ -1,6 +1,6 @@
 <p id="top">
 	<a href="https://www.npmjs.com/package/s-to-o">
-		<img src="https://cdn.abranhe.com/projects/s-to-o/logo.svg" width="70%" height="70%">
+		<img src="https://cdn.abranhe.com/projects/s-to-o/logo.svg" width="30%" height="30%">
 		</a>
 	<br>
 </p>
