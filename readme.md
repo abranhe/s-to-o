@@ -1,36 +1,28 @@
-<p align="center" id="top">
-	<a href="https://www.npmjs.com/package/str-to-arr"><img src="https://cdn.abranhe.com/projects/s-to-o/logo.svg"></a>
+<p id="top">
+	<a href="https://www.npmjs.com/package/s-to-o">
+		<img src="https://cdn.abranhe.com/projects/s-to-o/logo.svg" width="70%" height="70%">
+		</a>
 	<br>
-	<br>
-	<br>
-	<a href="https://www.npmjs.com/package/s-to-o"><b>s-to-o</b></a>
-	: STRING TO OBJECT (self explanatory)
 </p>
 
-<p align="center">
-	<!-- Travis CI -->
-	<a href="https://travis-ci.org/abranhe/s-to-o"><img src="https://img.shields.io/travis/abranhe/s-to-o.svg?logo=travis" /></a>
-	<!-- LICENSE -->
-	<a href="https://github.com/abranhe/s-to-o/blob/master/LICENSE"><img src="https://img.shields.io/github/license/abranhe/s-to-o.svg" /></a>
-	<!-- NPM Version -->
-	<a href="https://www.npmjs.com/package/s-to-o"><img src="https://img.shields.io/npm/v/s-to-o.svg" /></a>
-	<!-- @abranhe -->
-	<a href="https://github.com/abranhe"><img src="https://abranhe.com/badge.svg"></a>
-	<!-- Cash me -->
-	<a href="https://cash.me/$abranhe"><img src="https://cdn.abranhe.com/badges/cash-me.svg"></a>
-	<!-- Patreon -->
-	<a href="https://www.patreon.com/abranhe"><img src="https://cdn.abranhe.com/badges/patreon.svg" /></a>
-	<!-- Paypal -->
-	<a href="https://paypal.me/abranhe/10"><img src="https://cdn.abranhe.com/badges/paypal.svg" /></a>
-</p>
+# s-to-o
 
-# Install
+> Convert an string into an object
+
+[![](https://img.shields.io/travis/abranhe/s-to-o.svg?logo=travis)](https://travis-ci.org/abranhe/s-to-o)
+[![](https://abranhe.com/badge.svg)](https://github.com/abranhe)
+[![](https://cdn.abranhe.com/badges/cash-me.svg)](https://cash.me/$abranhe)
+[![](https://cdn.abranhe.com/badges/patreon.svg)](https://patreon.com/abranhe)
+[![](https://img.shields.io/github/license/abranhe/s-to-o.svg)](https://github.com/abranhe/s-to-o/blob/master/license)
+[![](https://img.shields.io/npm/v/s-to-o.svg)](https://npmjs.com/package/s-to-o)
+
+## Install
 
 ```
 npm install s-to-o
 ```
 
-# Usage
+## Usage
 
 ```js
 const sto = require('s-to-o');
@@ -39,16 +31,27 @@ console.log(sto('a: 1, b: 2, c: 3, d: 4'));
 // => { a: '1', b: '2', c: '3', d: '4' }
 ```
 
-# Related
+## API
+
+### sto(input)
+
+Type: `function`
+
+Return Type: `object`
+
+A replacement for JSON.parse() which converts an string into an object.
+
+#### input
+
+Type: `string`
+
+String to be parsed.
+
+
+## Related
 
 - [str-to-arr](https://github.com/abranhe/str-to-arr): Add words from a string to an array
 
-# Team
+## License
 
-|[![Carlos Abraham Logo](https://avatars3.githubusercontent.com/u/21347264?s=50)](https://abranhe.com)|
-| :-: |
-| [Carlos Abraham](https://github.com/abranhe) |
-
-# License
-
-[MIT](https://github.com/abranhe/s-to-o/blob/master/license) License © [Carlos Abraham](https://github.com/abranhe/)
+MIT © [Abraham Hernandez](https://abranhe.com)
