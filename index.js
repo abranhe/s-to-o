@@ -1,12 +1,14 @@
 'use strict';
 
-module.exports = (str) => {
-	const obj = {};
+module.exports = str => {
+	return str
+		.replace(/\s/g, '')
+		.split(',')
+		.map(key => {
+			const a = key.split(':')[0];
+			const b = key.split(':')[1];
 
-	str.replace(/\s/g, '').split(',').forEach(propName => {
-		const propVal = propName.split(':');
-		obj[propVal[0]] = propVal[1] || null;
-	});
-
-	return obj;
+			return {[a]: isNaN(b) ? b : Number(b)};
+		})
+		.reduce((x, y) => ({...x, ...y}));
 };
